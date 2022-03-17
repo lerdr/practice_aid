@@ -1,0 +1,19 @@
+body {
+  overflow: hidden;
+}
+
+.container,
+.row {
+  height: 100vh;
+}
+
+.instructions {
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+#pattern-col {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
